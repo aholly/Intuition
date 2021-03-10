@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hollya\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hollya\\.nuget\\packages"
+    ]
+  }
+}
