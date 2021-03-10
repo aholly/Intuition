@@ -1,7 +1,5 @@
 
-Start 
-step 1 : cd Intuition
-step 2: dotnet run
+
 
 Question 1
 
